@@ -10,6 +10,4 @@ ALL final codes are in the zip file named 'Final'.
 
 4. The resulting diagram is also stored in 'Diagram Plot' file.
 
-5. The two datasets we used are stored in the zip file named 'Datasets.zip'.
-
-6. The remaining code represents all our attempts from the beginning to the end of the project.
+5. The remaining code represents all our attempts from the beginning to the end of the project.
